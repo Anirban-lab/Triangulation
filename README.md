@@ -8,8 +8,7 @@ Tanmay Chakraborty
 
 Anirban Saha
 
-# Paper Submitted in:
-# IEEE Robotics and Automation Letters
+# Paper Submitted in: IEEE Robotics and Automation Letters
 
 
 Status: Under Review (as on July 1,2020)
