@@ -1,11 +1,7 @@
 # Restricted Resource based Dynamic Triangulation Mapping
 
 # Authors:
-Akash Kumar
-
-Tanmay Chakraborty
-
-Anirban Saha
+Akash Kumar, Tanmay Chakraborty and Anirban Saha
 
 # Paper Submitted in: IEEE Robotics and Automation Letters
 
