@@ -6,7 +6,7 @@ Akash Kumar
 Tanmay Chakraborty
 Anirban Saha
 
-Paper Submitted in:
+# Paper Submitted in:
 # IEEE Robotics and Automation Letters
 
 
@@ -14,5 +14,5 @@ Paper Submitted in:
 Under Review (as on July 1,2020)
 
 Simulation is open-sourced.
-Simulation Code: https://github.com/tanmay-ty/DTMS
+Simulation Repository: https://github.com/tanmay-ty/DTMS
 
