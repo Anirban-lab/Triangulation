@@ -1,5 +1,4 @@
-# Triangulation
-Restricted Resource based Dynamic Triangulation Mapping
+# Restricted Resource based Dynamic Triangulation Mapping
 
 # Authors:
 Akash Kumar
